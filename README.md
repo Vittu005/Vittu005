@@ -8,9 +8,9 @@
 
 ### 💫 *"Coding the future, one line at a time"*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-kaushik-0402b8257)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohan-kaushik-onumu-0402b8257)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vittu005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankaushik112005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankaushik112005@gmail.com?subject=Let's%20Connect&body=Hi%20Mohan,%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20connect.%0A%0ABest%20regards)
 
 </div>
 
@@ -144,8 +144,8 @@
 
 **Ready to collaborate on exciting projects?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-kaushik-0402b8257)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankaushik112005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohan-kaushik-onumu-0402b8257)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankaushik112005@gmail.com?subject=Let's%20Connect&body=Hi%20Mohan,%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20connect.%0A%0ABest%20regards)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vittu005)
 
 📱 **Phone:** +91 8247580803  
